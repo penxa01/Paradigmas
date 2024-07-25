@@ -1,0 +1,1 @@
+modulo(X,Y,Z):-  Z is Y mod X.

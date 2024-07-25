@@ -1,0 +1,2 @@
+reves([],[]).
+reves([X|L1],Y):-reves(L1,A),append(A,[X],Y).
